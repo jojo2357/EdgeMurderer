@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+.vs
+*\bin
+*\obj
+getyourassdownhere.bat
+Archived_Releases
+blacklisted_programs.ini
+*.exe

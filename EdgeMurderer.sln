@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeMurdererRunner", "EdgeMurdererRunner\EdgeMurdererRunner.csproj", "{63B39433-3F38-4D4F-BCA5-C805325B9E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeMurdererGUI", "EdgeMurdererGUI\EdgeMurdererGUI.csproj", "{08D8FB6D-AA13-4D65-A954-92F29FA3675E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B39433-3F38-4D4F-BCA5-C805325B9E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B39433-3F38-4D4F-BCA5-C805325B9E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B39433-3F38-4D4F-BCA5-C805325B9E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B39433-3F38-4D4F-BCA5-C805325B9E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D8FB6D-AA13-4D65-A954-92F29FA3675E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D8FB6D-AA13-4D65-A954-92F29FA3675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D8FB6D-AA13-4D65-A954-92F29FA3675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D8FB6D-AA13-4D65-A954-92F29FA3675E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
